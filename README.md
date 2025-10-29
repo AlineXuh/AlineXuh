@@ -1,6 +1,5 @@
 - 👋 Hi, 
-- 👀 I’m interested in Design Graphic
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m interested in Design Graphic
 - 🎨 I'm also a designer. How to find my arts 🪄https://www.instagram.com/linexuh.art/
 - ♍ zodiac sign virgo
 <!---
